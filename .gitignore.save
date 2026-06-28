@@ -1,0 +1,10 @@
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup.terraform/
+terraform.tfstate
+terraform.tfstate.backup.terraform/
+terraform.tfstate
+terraform.tfstate.backupnano .gitignorenano .gitignorenano .gitignorenano .gitignorenano .gitignore.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
